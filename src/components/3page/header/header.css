@@ -1,0 +1,12 @@
+.links_to_the_2page {
+    text-decoration: none;
+color: white;
+border-bottom: solid 2px ;
+
+
+}
+
+.links_to_the_2page:hover {
+    border-bottom: solid 2px grey;
+
+}

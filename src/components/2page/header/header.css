@@ -1,0 +1,19 @@
+.links_to_the_page2 {
+text-decoration: none;
+color: gray;
+
+}
+
+.links_to_the_page2:hover {
+    border-bottom: solid 2px;
+}
+
+.links_to_the_main_page2 {
+border-bottom: solid 2px white ;
+text-decoration: none;
+color: wheat;
+}
+
+.links_to_the_main_page2:hover {
+    border-bottom: solid 2px gray;
+}

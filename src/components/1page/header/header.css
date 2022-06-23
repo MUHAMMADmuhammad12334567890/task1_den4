@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 100%;
+
+
+
+}
+
+.header_bloc {
+    display: flex;
+ justify-content: space-around;
+ width: 15%;
+
+
+}
+
+.links_to_the_home {
+
+    color: white;
+    text-decoration: none;
+    border-bottom: 2px solid;
+}
+.links_to_the_main:hover  {
+
+    border-bottom: 2px solid;
+}
+
+.links_to_the_main {
+    color: gray;
+    text-decoration: none;
+
+}
+
+.links_to_the_home:hover {
+    border-bottom: 2px solid gray;
+}

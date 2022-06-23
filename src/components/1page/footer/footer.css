@@ -1,0 +1,22 @@
+.footer_conteyner {
+    display: flex;
+    justify-content: center;
+  align-items: flex-end;
+  height: 140px;
+
+}
+.footer_bloc {
+    display: flex;
+justify-content: space-between;
+align-items: center;
+width: 20%;
+}
+
+.links_footer {
+    text-decoration: none;
+    color: white;
+}
+
+.links_footer:hover {
+    text-decoration: underline;
+}
